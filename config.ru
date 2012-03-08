@@ -1,2 +1,4 @@
-require "showoff"
+require 'bundler'
+Bundler.require
+
 run ShowOff.new
