@@ -1,0 +1,9 @@
+{
+  "name": "The Secrets to True Programming Happiness",
+  "sections": [
+    {"section":"intro"},
+    {"section":"hypothesis"},
+    {"section":"my_opinions"},
+    {"section":"outro"}
+  ]
+}
