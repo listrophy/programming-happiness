@@ -12,11 +12,11 @@
 # 4. Comments are Lies #
 
 !SLIDE
-# 5. You Aren't Backing #
-# Up Your Data Enough #
+# 5. Use git #
 
 !SLIDE
-# 6. Use git #
+# 6. You Aren't Backing #
+# Up Your Data Enough #
 
 !SLIDE
 # 7. Fit In #
@@ -35,6 +35,8 @@
 
 !SLIDE
 # 11. Go to Conferences #
+## uxmad.com: july 12–13 ##
+## madisonruby.org: aug 22–24 ##
 
 !SLIDE
 # 12. Design Matters #
@@ -51,14 +53,17 @@
 # 15. Don't Be Too Clever #
 
 !SLIDE
-# 16. #
-# Happiness &#8658; Work &#8658; Goals #
-# NOT #
-# Work &#8658; Goals &#8658; Happiness #
-## ($$ &#8712; goals) ##
+# 16. Learn regular expressions #
 
 !SLIDE
 # 17. Toys > Degrees #
 
 !SLIDE
-# 18. Learn regular expressions #
+# 18. #
+# Work &#8658; Goals &#8658; Happiness #
+# is WRONG #
+
+!SLIDE
+# 18. #
+# Happiness &#8658; Work &#8658; Goals #
+## ($$ &#8712; goals) ##

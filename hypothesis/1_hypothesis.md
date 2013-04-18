@@ -2,10 +2,6 @@
 # The Secrets of True Programming Happiness #
 
 !SLIDE
-# I Lied #
-## There is but one secret ##
-
-!SLIDE
 # The <s>Secrets</s> Secret of True Programming Happiness #
 
 !SLIDE
