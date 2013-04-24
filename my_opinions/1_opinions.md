@@ -53,7 +53,7 @@
 # 15. Don't Be Too Clever #
 
 !SLIDE
-# 16. Learn regular expressions #
+# 16. Find Tools You Love #
 
 !SLIDE
 # 17. Toys > Degrees #

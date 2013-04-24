@@ -2,6 +2,8 @@
   "name": "The Secrets to True Programming Happiness",
   "sections": [
     {"section":"intro"},
+    {"section":"whisky"},
+    {"section":"privilege"},
     {"section":"hypothesis"},
     {"section":"my_opinions"},
     {"section":"outro"}
