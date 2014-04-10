@@ -3,7 +3,6 @@
   "sections": [
     {"section":"intro"},
     {"section":"whisky"},
-    {"section":"privilege"},
     {"section":"hypothesis"},
     {"section":"my_opinions"},
     {"section":"outro"}

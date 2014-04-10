@@ -1,4 +1,7 @@
 !SLIDE
+# The 19 Most Incredible Opinions on Programming You'll Ever Read!
+
+!SLIDE
 # 1. Automate All the Things #
 
 !SLIDE
@@ -19,8 +22,7 @@
 # Up Your Data Enough #
 
 !SLIDE
-# 7. Fit In #
-## at least a little ##
+# 7. Beware "Cultural Fit" #
 
 !SLIDE
 # 8. Better to be an Expert #
@@ -35,8 +37,8 @@
 
 !SLIDE
 # 11. Go to Conferences #
-## uxmad.com: july 12–13 ##
-## madisonruby.org: aug 22–24 ##
+## madisonpl.us/ux: july 10–12 ##
+## madisonpl.us/ruby: aug 21–23 ##
 
 !SLIDE
 # 12. Design Matters #
@@ -59,11 +61,30 @@
 # 17. Toys > Degrees #
 
 !SLIDE
-# 18. #
+# Pay Attention #
+## these last two are important ##
+
+!SLIDE
+# 18. You are Privileged #
+
+!SLIDE smbullets incremental
+# 18. I am Privileged #
+* white
+* male
+* American
+* native English speaker
+* non-poor
+* straight
+* cisgendered
+* able-bodied
+
+!SLIDE
+# 19. #
 # Work &#8658; Goals &#8658; Happiness #
 # is WRONG #
 
 !SLIDE
-# 18. #
+# 19. #
 # Happiness &#8658; Work &#8658; Goals #
 ## ($$ &#8712; goals) ##
+### c.f. Shawn Achor on TED.com ###
